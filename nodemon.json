@@ -1,0 +1,7 @@
+{
+  "env": {
+    "JWT_KEY": "this_is_a_secret_key",
+    "MONGO_PW": "mean",
+    "MONGO_URL": "34.244.160.184:27017"
+  }
+}
