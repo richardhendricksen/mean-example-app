@@ -1,7 +1,5 @@
 {
   "env": {
-    "JWT_KEY": "this_is_a_secret_key",
-    "MONGO_PW": "this_is_password",
-    "MONGO_URL": "localhost:27017"
+    "JWT_KEY": "this_is_a_secret_key"
   }
 }
